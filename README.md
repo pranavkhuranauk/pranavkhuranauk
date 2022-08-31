@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranavkhuranauk
+- 👋 Hi, I’m Pranav Khurana
 - 👀 I’m interested in Power Platform and Azure AI
 - 🌱 I’m currently learning Power Apps and AI
 - 💞️ I’m looking to collaborate on AI
